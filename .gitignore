@@ -10,7 +10,7 @@
 
 # production
 /build
-/mysql-data
+/mysql-data/*
 
 # misc
 .env
