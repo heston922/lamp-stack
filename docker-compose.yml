@@ -12,7 +12,7 @@ services:
     image: mysql:8.0
     restart: always
     env_file:
-      - ./mysql-data/.env
+      - ./mysql.env
     volumes:
       - ./mysql-data:/var/lib/mysql
 
