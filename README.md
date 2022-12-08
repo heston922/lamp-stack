@@ -1,5 +1,10 @@
 # LAMP Stack 
 
+```
+mkdir mysql-data
+docker-compose up -d --build
+```
+
 services:
 ```
 Debian 11 bulleye
