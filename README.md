@@ -1,8 +1,13 @@
 # LAMP Stack 
 
 ```
+cd lamp-stack
+
 mkdir mysql-data
+
 docker-compose up -d --build
+
+docker-compose ps
 ```
 
 services:
