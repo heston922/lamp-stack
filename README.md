@@ -1,6 +1,8 @@
 # LAMP Stack 
 
 ```
+git clone https://github.com/heston922/lamp-stack.git
+
 cd lamp-stack
 
 mkdir mysql-data
